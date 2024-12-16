@@ -1,0 +1,7 @@
+
+# Ignore specific zip files
+VnBeeTracking-20241216T104420Z-001.zip
+VnBeeTracking-20241216T104420Z-002.zip
+
+# Ignore PollenbeeDataset folder and all its contents
+PollenbeeDataset/
