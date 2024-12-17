@@ -5,3 +5,12 @@ VnBeeTracking-20241216T104420Z-002.zip
 
 # Ignore PollenbeeDataset folder and all its contents
 PollenbeeDataset/
+
+yolov8x.pt
+
+
+best.pt
+
+runs/detect/train7/weights
+
+output_video.mp4

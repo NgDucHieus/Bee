@@ -1,0 +1,8 @@
+train: C:\Users\MAY02\Desktop\Bee\PollenbeeDataset\images\train
+val: C:\Users\MAY02\Desktop\Bee\PollenbeeDataset\images\val
+test: C:\Users\MAY02\Desktop\Bee\PollenbeeDataset\images\test  # Add path to test images if needed
+
+
+nc: 2  # Number of classes
+names: ['nonpollenbee', pollenbee]  # List of class names
+ 
