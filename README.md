@@ -3,6 +3,7 @@
 ## Overview
 
 This project is dedicated to detecting bees in images or videos using computer vision techniques and machine learning models. The aim is to support ecological research, monitor bee populations, and assist in understanding their behaviors and habitats.
+We using dataset from  VnPollenBee Dataset. It contains more than 2000 imagesconsisting of 1,758 pollen bearing and 59,068 non-pollen bearing bees.
 
 ## Features
 
